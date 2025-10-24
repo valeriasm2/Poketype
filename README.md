@@ -22,8 +22,10 @@
 
 ---
 
-## ⚡ Página web
-- 
+## 🚀 Juega en línea
+
+¡Prueba Poketype en tu navegador!  
+🎮 [Jugar ahora](https://cibertype3.ieti.site/)
 
 ---
 
