@@ -18,8 +18,12 @@
 
 ## 🛠 Requisitos
 
-- Servidor web con **PHP 7+**.  
 - Navegador con **JavaScript habilitado**.  
+
+---
+
+## ⚡ Página web
+- 
 
 ---
 
